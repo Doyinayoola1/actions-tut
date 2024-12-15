@@ -1,4 +1,4 @@
-def myname (a)
+def myname (a):
 
     return a
 
